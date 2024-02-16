@@ -1,7 +1,7 @@
 # Formulario de cadastro
 Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
 
-https://victorturques.github.io/formulario-cadasto/
+link para visitar o site:  https://victorturques.github.io/formulario-cadasto/
 
 ## Página principal
 ![formulario cadastro](https://github.com/victorturques/formulario-cadasto/assets/119813748/2464e824-6722-453c-9efc-9d904fe9257b)
